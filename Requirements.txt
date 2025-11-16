@@ -1,4 +1,5 @@
-streamlit
+streamlit==1.51.0
 sympy
 pint
 regex
+
